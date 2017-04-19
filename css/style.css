@@ -1035,4 +1035,8 @@ body{
 		margin: 0 auto;
 		}
 }
+
+body {
+  background: black !important;
+}
 /*--//media Quries for 320px-laptops-*/
