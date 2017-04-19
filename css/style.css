@@ -106,7 +106,7 @@ body{
 	-o-transition:0.5s all;
 }
 .icon1,.icon2,.icon3,.icon4{
-	background: #DD5E5F;
+	background: blue;
 	height: 160px;
 	width: 160px;
 	display: inline-block;
@@ -646,7 +646,7 @@ body{
 	}
 	.header {
 		background: rgba(0, 0, 0, 0.56);
- 		margin-top:0%; 
+ 		margin-top:0%;
 	}
 	.logo {
 		float: none;
@@ -744,7 +744,7 @@ body{
 	}
 	.header {
 		background: rgba(0, 0, 0, 0.56);
- 		margin-top:0%; 
+ 		margin-top:0%;
 	}
 	.logo {
 		float: none;
@@ -842,7 +842,7 @@ body{
 	}
 	.header {
 		background: rgba(0, 0, 0, 0.56);
- 		margin-top:0%; 
+ 		margin-top:0%;
 	}
 	.logo {
 		float: none;
@@ -899,7 +899,7 @@ body{
 		min-height:600px;
 	}
 	.grid-block:nth-child(5),.grid-block:nth-child(6),.grid-block:nth-child(7),.grid-block:nth-child(8){
-		display:none;	
+		display:none;
 	}
 	.contact-info form input[type="text"] {
 		width: 92%;
@@ -955,7 +955,7 @@ body{
 	}
 	.header {
 		background: rgba(0, 0, 0, 0.56);
- 		margin-top:0%; 
+ 		margin-top:0%;
 	}
 	.logo {
 		float: none;
@@ -1012,7 +1012,7 @@ body{
 		min-height:600px;
 	}
 	.grid-block:nth-child(5),.grid-block:nth-child(6),.grid-block:nth-child(7),.grid-block:nth-child(8){
-		display:none;	
+		display:none;
 	}
 	.contact-info form input[type="text"] {
 		width: 90%;
